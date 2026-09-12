@@ -1,1 +1,2 @@
 pwd: Muestra la ruta completa del directorio.
+rm: sirve para eliminar un file o directorio
