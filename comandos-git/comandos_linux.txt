@@ -4,3 +4,5 @@ ls: Lista todos los archivos o folders del directorio
 
 git log: me permite ver el historial de cambios
 mkdir: Crea un directorio nuevo
+.env: guarda credenciales etc.
+.gitignore: todo que lo que ignora
