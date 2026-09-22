@@ -1,3 +1,1 @@
-este es una prueba
-segunda prueba
-tercera prueba
+pwd: Muestra la ruta completa del directorio
