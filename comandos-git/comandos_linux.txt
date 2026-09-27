@@ -7,8 +7,4 @@ mkdir: Crea un directorio nuevo
 .env: guarda credenciales etc.
 .gitignore: todo que lo que ignora
 
-Última modificación. 
-otra prueba para restaurar
-
-Vamos a revisar, 
-git pull, push, merge
+añadimos  otro  cambio 27.09.2026
