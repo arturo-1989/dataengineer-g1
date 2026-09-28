@@ -8,3 +8,5 @@ mkdir: Crea un directorio nuevo
 .gitignore: todo que lo que ignora
 
 añadimos  otro  cambio 27.09.2026
+
+rm: Sirve para aliminar un file o directorio
