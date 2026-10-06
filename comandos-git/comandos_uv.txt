@@ -8,3 +8,6 @@ uv add numpy
 
 #Ejecuta el script main.py
 uv run main.py
+
+#Sincronizar las librerías en un repo nuevo
+uv sync
